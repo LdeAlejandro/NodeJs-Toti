@@ -1,4 +1,4 @@
-Aqui está a documentação atualizada com as informações adicionais sobre o `package.json` em formato Markdown:
+
 
 ```markdown
 # Documentação de Comandos e `package.json`
