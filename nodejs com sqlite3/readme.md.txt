@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Documentação de Comandos e `package.json`
 
 ## Instalação de Dependências
