@@ -1,4 +1,4 @@
-Aqui está a documentação em Markdown para os comandos fornecidos:
+
 
 
 # Configuração do Projeto Node.js com Mongoose e Express
