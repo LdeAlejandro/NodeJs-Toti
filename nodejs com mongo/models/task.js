@@ -1,12 +1,14 @@
-
+// Importa a biblioteca Mongoose, que fornece uma solução para modelar dados e interagir com o banco de dados MongoDB.
 const mongoose = require('mongoose');
 
-//declarando esquema de mongoose
+// Declara o esquema de Mongoose. Um esquema define a estrutura dos documentos que serão armazenados em uma coleção MongoDB.
+// `Schema` é um construtor fornecido pelo Mongoose para criar novos esquemas.
 const Schema = mongoose.Schema;
+
 
 //Modelo do Schema
 const ModelSchema = new Schema({
-//delarando o tipo 
+//delarando os tipos 
 name: {type: String, required: true},
 status: {type: Boolean, default: false}
 });
